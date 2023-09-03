@@ -1,0 +1,17 @@
+{
+    "name": "mostafaessaahmed755/randomcatpkg",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "MostafaEssaAhmed755\\RandomCatPkg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mostafa Essa Ahmed",
+            "email": "mostafa.essa.ahemd755@gmail.com"
+        }
+    ]
+}
